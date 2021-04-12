@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@uniswap/sdk": "^3.0.3"
-  }
+    "@renproject/chains": "^2.1.8",
+    "@renproject/ren": "^2.1.7",
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.1.0"
+  },
+  "type": "module"
 }
